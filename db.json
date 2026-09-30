@@ -1,0 +1,76 @@
+{
+  "users": [],
+  "customers": [],
+  "studios": [],
+  "categories": [],
+  "services": [],
+  "packages": [],
+  "addons": [],
+  "bookings": [],
+  "payments": [],
+  "printProducts": [],
+  "printOrders": [],
+  "reviews": [],
+  "faqs": [],
+  "auditLogs": [],
+  "notifications": [],
+  "favorites": [],
+  "photoProofings": [],
+  "cmsSettings": [
+    {
+      "id": "heroTitle",
+      "key": "heroTitle",
+      "value": "Frame Your Story. <br /> Book Cainta Studios."
+    },
+    {
+      "id": "heroSubtitle",
+      "key": "heroSubtitle",
+      "value": "Discover accredited photography studios in Cainta, Rizal. Compare live calendar availability, customize grad & creative packages, inspect RAW vs retouched portfolios, and order gallery-grade physical wall prints."
+    },
+    {
+      "id": "heroBackground",
+      "key": "heroBackground",
+      "value": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1800&fit=crop"
+    },
+    {
+      "id": "aboutTitle",
+      "key": "aboutTitle",
+      "value": "Pristine Studio Lighting & Retouching"
+    },
+    {
+      "id": "aboutDescription",
+      "key": "aboutDescription",
+      "value": "Experience the difference of calibrated Profoto strobes, true-to-life skin tones, and meticulous post-processing by Cainta's leading photographers."
+    },
+    {
+      "id": "featuresTitle",
+      "key": "featuresTitle",
+      "value": "Spotlight Studios in Cainta, Rizal"
+    },
+    {
+      "id": "featuresSubtitle",
+      "key": "featuresSubtitle",
+      "value": "Explore photography styles and packages suited to your milestones."
+    }
+  ],
+  "customPages": [],
+  "systemSettings": {
+    "primaryColor": "#2c2a29",
+    "accentColor": "#d97706",
+    "backgroundColor": "#faf9f6",
+    "fontFamily": "sans",
+    "headerStyle": "standard",
+    "isChatbotEnabled": true,
+    "isPrintStoreEnabled": true,
+    "isBookingEnabled": true,
+    "isMapEnabled": true,
+    "isSoundEnabled": true,
+    "customAudioUrl": "",
+    "customAudioEnabled": true,
+    "demoVideoUrl": "",
+    "hiddenNavItems": []
+  },
+  "mediaFiles": [],
+  "availabilities": [],
+  "blackouts": []
+}
